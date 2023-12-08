@@ -1,6 +1,6 @@
 # It's ME, HI! I'm Tonia Konsolaki
 
-## I am a Frontend Developer.
+## I am a Frontend Developer. 👩‍💻
 
 Hi there 👋,
 
@@ -14,7 +14,7 @@ I'm Tonia, a Frontend Developer passionate about creating engaging and responsiv
 
 ⚡ I love dad jokes!
 
-## Tech Stack
+## 💾 Tech Stack
 
 ### Web Development
 - HTML5
@@ -25,17 +25,17 @@ I'm Tonia, a Frontend Developer passionate about creating engaging and responsiv
 - React Bootstrap Components
 - Bootstrap
 
-## Version Control
+### Version Control
 - GitHub
 - Git
 - Gitea
 
-## API Tools
+### API Tools
 - Postman
 - Swagger
 - MirageJS
 
-### 📬 Connect with me:
+## 📬 Connect with me:
                   
 <p align="left">
    <a href="https://www.github.com/sentonia" target="_blank" rel="noreferrer">
