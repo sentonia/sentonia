@@ -1,4 +1,4 @@
-# It's ME, HI! 👋, I'm Tonia Konsolaki
+# It's ME, HI! I'm Tonia Konsolaki
 
 ## I am a Frontend Developer.
 
