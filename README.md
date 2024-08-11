@@ -1,18 +1,19 @@
-# It's ME, HI! I'm Tonia Konsolaki
+# It's me, HI! I'm Tonia! 👋
 
-## I am a Frontend Developer. 👩‍💻
 
-Hi there 👋,
+Welcome to my GitHub profile! 😄
 
-Welcome to my GitHub profile!😄
+I'm a Frontend Developer 👩‍💻 from Greece, and I absolutely love crafting engaging, responsive, and cutting-edge web applications. 💻✨ I thrive on learning and evolving my skills, and I'm always up for a challenge with the latest technologies.
 
-I'm Tonia, a Frontend Developer passionate about creating engaging and responsive web applications.
+#### 🔭 What I'm working on:
 
-🔭 Currently, I'm working as a Senior Frontend Developer, specializing in ReactJS, JavaScript, HTML5, and CSS.
+Currently, I'm a Senior Frontend Developer at Arhs Group, diving deep into the world of ReactJS, JavaScript, HTML5, and CSS3. I’m always on the lookout for new tools and trends to keep my work sharp and innovative.
 
-🌱 I love exploring new technologies.
+#### 🌱 What I love:
 
-⚡ I love dad jokes!
+Exploring new technologies that push the boundaries of web development.
+Collaborating with other developers to solve problems and build awesome projects together.
+Sharing a good laugh with a dad joke or two! ⚡
 
 ## 💾 Tech Stack
 
